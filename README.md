@@ -1,5 +1,9 @@
 # Data Structures Final Project (Python)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Course](https://img.shields.io/badge/Course-Data%20Structures-orange)
+
 This repository contains my **final project for the Data Structures course**.  
 It is a menu-driven Python program demonstrating key data structures and algorithms through practical tasks.
 
